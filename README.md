@@ -108,6 +108,12 @@ If your project has custom rules or configurations, those can be easily copied o
 
 > Plese note that existing configuration files might be modified. Make sure to review all changes before committing.
 
+To keep existing poetic rules, please pass '--keepRules' arg to init command
+
+```
+npx poetic --keepRules
+```
+
 ## Contributing
 
 We are looking for contributors that are passionate about code style and making it accessible to teams around the world. 
